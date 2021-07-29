@@ -1,4 +1,10 @@
-# ROSALIND_Bioinformatics_Problems
-Repository for files and scripts relating to attempts at bioinformatic or computational biology coding problems that can be found at http://rosalind.info/problems/locations/
+Basic Bioinformatics skills portfolio
 
-The intention of this respository is to showcase my coding abilities in relation to basic problems/queries of biological data. Though the length of the solutions may vary from a small amount of lines to many each problem and solution has its own script. This is to allow anyone interested in viewing my solution to only look at the problem they are interested in, instead of downloading one very long file and trawlign through it to find the solution(s) they are interested in. As noted on the Rosalind website in many cases there already exists tools to solve such problems and has a seperate section involving the use of these tools rather than directly solving the problem (and thereby reinventing the wheel). For the problems that have a listed companion problem involving the use of such tools the script will include both solutions rather than having redundant files.
+The intention of this respository is to showcase my basic coding abilities in relation to basic problems/queries of biological data. This includes:
+
+Converting DNA to RNA and protein sequences and finding the reverse complement of such nucleotide sequences
+Calculating the frequency of bases/amino-acids in a nucleotide/protein sequence
+Finding open reading frames (ORFs) and calculating the possible proteins that can be created from each ORF
+Using biological database tools such as 'BLAST'
+
+For each basic 'problem' I have created both a python script and an R script (the later being the language I am more comfortable/familiar with).
